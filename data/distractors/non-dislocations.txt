@@ -1,1 +1,11 @@
-##
+# non-dislocations.txt
+# All examples by Vance Holthenrichs and Svitlana Melnyk
+# language: ukr
+# Notes: 
+# These are all grammatical examples. 
+
+Треба спати щодня.
+
+У Франції роблять вино.
+
+Леви ревуть.
