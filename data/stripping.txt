@@ -1,0 +1,9 @@
+# stripping.txt
+# All examples by Vance Holthenrichs and Svitlana Melnyk
+# language: ukr
+# Notes: 
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Дикі коти бігають швидше, ніж домашні ___.
+----
+Дикі коти бігають швидше, ніж домашні коти бігають.
