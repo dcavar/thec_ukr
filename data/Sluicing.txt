@@ -1,5 +1,5 @@
 # sluicing.txt
-# (C) 2023 by Vance Holthenrichs <vanholth@iu.edu>
+# All data by Vance Holthenrichs and Svitlana Melnyk
 # language: ukr
 # Notes: 
 # These are all grammatical examples. The elided positions are indicated by ___.
