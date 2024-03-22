@@ -1,4 +1,4 @@
-# stripping.txt
+# Stripping.txt
 # All examples by Vance Holthenrichs and Svitlana Melnyk
 # language: ukr
 # Notes: 
