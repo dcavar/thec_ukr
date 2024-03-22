@@ -2,9 +2,10 @@
 # All examples by Vance Holthenrichs and Svitlana Melnyk
 # language: ukr
 # Notes: 
-# These are all grammatical examples. The dislocated element is bracketed and indexed, with it's original position being denoted by three _ and the index numeral.
+# These are all grammatical examples. 
+# The dislocated element is bracketed and indexed, with it's original position being denoted by three underscores followed by the index.
 
-[Машина]1 мені дуже подоюається ця червона ___1.
+[Машина]1 мені дуже подобається ця червона ___1.
 
 [До якого]1 [пішла]2 Наталя ___2 ___1 будинку?
 
