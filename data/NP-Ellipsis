@@ -1,0 +1,10 @@
+# NP ellipsis.txt
+# (C) 2023 by Vance Holthenrichs <vanholth@iu.edu>
+# language: ukr
+# Notes: 
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Кордон Фінландії з Росією довгий, ___ з Норвегією короткий, а ___ з Швецією - десь посередині.
+----
+Кордон Фінландії з Росією довгий, кордон Фінландії з Норвегією короткий, а кордон Фінландії з Швецією - десь посередині.
+#V. Holthenrichs and S. Melnyk
