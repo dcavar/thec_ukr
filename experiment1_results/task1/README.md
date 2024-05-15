@@ -1,10 +1,14 @@
-# The Hoosier Ellipsis Corpus (THEC) - Ukrainian Sub-corpus (thec_ukr)
+# The Hoosier Ellipsis Corpus (THEC) - Ukrainian Sub-corpus (thec_ukr) - Experiment 1 Results
 
 (C) 2024 [NLP-Lab]
 
 Created: 2024-05-14 by [Damir Cavar]
 
 Last change: 2024-05-14 by [Damir Cavar]
+
+
+The Task 1 data consists of a random mix of constructions with and without ellipsis. The task for an NLP pipeline or an LLM is to guess the position and full form of the elided words, phrases, and other content.
+
 
 
 More details about the [Hoosier Ellipsis Corpus] can be found on the [NLP-Lab] pages. The [GitHub repo](https://github.com/dcavar/hoosierellipsiscorpus) contains links to other languages and useful code and scripts for data processing.

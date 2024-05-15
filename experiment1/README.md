@@ -1,4 +1,4 @@
-# The Hoosier Ellipsis Corpus (THEC) - Ukrainian Sub-corpus (thec_ukr)
+# The Hoosier Ellipsis Corpus (THEC) - Ukrainian Sub-corpus (thec_ukr) - Experiment 1 Data
 
 (C) 2024 [NLP-Lab]
 

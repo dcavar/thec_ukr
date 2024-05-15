@@ -1,0 +1,3 @@
+gpt-4-turbo Task task3_random_ukr_1.csv  Results
+------------------------------
+Accuracy: 0.24
